@@ -5,9 +5,11 @@
   "mixins": [
   ],
   "client": [
-    "MusicPlayMixin",
-    "MusicCreationMixin",
     "ClientMusicChoiceMixin",
+    "MusicCreationMixin",
+    "MusicManagerMixin",
+    "MusicPlayMixin",
+    "ReloadHookMixin",
     "SoundEventsMixin",
     "SoundManagerWarnMixin"
   ],
