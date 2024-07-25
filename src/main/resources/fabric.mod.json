@@ -4,8 +4,8 @@
   "version": "${version}",
   "accessWidener": "biomemusic.accesswidener",
 
-  "name": "Biome Music Mod",
-  "description": "Biome music increases biomes music variance",
+  "name": "Biome Music Mod 1.21 Port",
+  "description": "Biome music increases biomes music variance unofficially ported to support Minecraft 1.21",
   "authors": [
     "Someaddons"
   ],
@@ -28,10 +28,10 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.16.0",
     "fabric": "*",
-    "minecraft": "1.20.x",
-    "cupboard": ">=1.20.1-1.5",
+    "minecraft": "1.21",
+    "cupboard": ">=1.21-1.5",
     "java": ">=17"
   },
   "suggests": {
